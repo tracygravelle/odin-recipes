@@ -1,0 +1,32 @@
+body {
+  font-family: 'Verdana', 'Arial', sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+  color: darkgreen;
+}
+
+.recipe-image {
+  height: auto;
+  width: 400px;
+}
+
+.recipe-list li {
+  padding-top: 16px;
+}
+/* CSS comment */
+.recipe, 
+.recipe-description {
+  width: 800px;
+}
+
+.recipe-ingredients li {
+  padding-bottom: 8px;
+}
+
+.recipe-directions li {
+  padding-top: 16px;
+}
